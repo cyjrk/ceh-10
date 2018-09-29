@@ -40,9 +40,9 @@ the host's synchronization distance, which is a measure of the quality of the cl
 
 SMTP
 
-VRFY – validate users on the SMTP servers
-EXPN – Delivery addresses of aliases and mailing lists
-RCPT TO – Defines the recipients of the message
+VRFY â€“ validate users on the SMTP servers
+EXPN â€“ Delivery addresses of aliases and mailing lists
+RCPT TO â€“ Defines the recipients of the message
 
 EXPN command is to reveal the actual address of users
 VRFY which can confirm the existance of names of valid users.
@@ -53,7 +53,8 @@ code 550 it means invalid user account
 
 DNS
 
-To retireve entrie zone file from primary during the dns zone transfer.
+To retireve entrie zone file from primary during the dns zone transfer
+ns lookup uses udp port.
 
 
 VOIP
