@@ -1,0 +1,94 @@
+owsap-top 10
+
+
+m1-improper
+
+mobile attack
+-point-1 device(browser based attack,phone/sms attack,application baes attack,the system)
+browser based attack
+  phishing
+  framing
+  clickjacking
+  main-mobile
+  buffer overflow
+-point-2 network
+-sslstrip
+-ssl certificates
+-dns poisioning
+-point-
+3datacenter
+
+webserver based attack
+databse attacks
+
+
+mobile attack vectors
+
+malware
+data exfiltration
+data tampering
+data loss
+
+bluetooth
+bluesnarfing - stealing info
+bluebugging - gaining info
+
+
+Hacking Android
+
+Hacking using the droid sheep
+
+Android Based Sniffers
+   faceniff
+android trojans
+   bank bot
+   spy dealer
+
+Hacking IOS
+
+Types of jailbearking
+  Userland exploit -userlevel access --- firmware update needed
+  Iboot exploit - userlevel access and iboot acceess --- semitethered
+  Bootrom exploit -userlevel access and iboot acceess (firware updates)
+
+jailbreak techquies
+
+
+IOS Trojans
+
+Ace Deceiver -mitm attack -DRM
+Spy/mobilespy!iphoneOS
+
+Tools
+Avira
+
+
+
+Mobile spyware
+
+mspy
+Flexispy
+
+
+Mobile Device Management
+
+IBM MaaS360
+XEN mobile
+
+
+BYOD Policy
+1.requirement
+2.select deivce of your device
+3.develope polviy
+4.security
+5.support
+
+
+BYOD Security Guidelines
+
+
+
+
+
+
+

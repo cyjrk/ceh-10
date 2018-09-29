@@ -1,0 +1,29 @@
+T-5 Insane Scan - fast network
+
+0.3 sec for response
+2 packets time difference sent is 5 millisecs
+gives up host on 15 min
+
+
+T-4 Aggressive - reliable networks
+
+1.25 for response
+2 packets time difference sent is 10 millisecs
+
+
+T-3 Normal Scan
+
+default
+
+T-2 polite Scan
+
+2 packets time difference sent is 0.4 secs
+
+T-1 Sneaky Scan
+
+2 packets time difference sent is 15 secs
+
+T-0 Scan Paranoid 
+
+one port @ time 
+2 packets time difference sent is 5 min

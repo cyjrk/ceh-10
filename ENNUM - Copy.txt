@@ -1,0 +1,69 @@
+PORTS
+
+TCP/UDP 53 DNS ZONE TRANSFER - UDP FOR TRANSFER AND TCP FOR BACKUPSOLUTION
+TCP/UDP 135 RPC
+UDP 137 NBNS Windows name srvice
+TCP 139 SMB OVER NETBIOS
+TCP/UDP 445 SMB OVER DIRECT
+UDP 161 SNMP
+TCP/UDP 389 LDAP
+TCP/UDP 3268 GLOBAL CATALOG SERVICE
+TCP 25 SMTP
+TCP PORT 162 SNMP TRAP
+
+
+
+SNMP ENUM:
+
+There are 2 passwords
+MIB
+SCALAR OBJECTS-SINGLE AND GRANULAR OBJECTS- MULITPLE
+DHCP.MIB
+HOSTMIB.MIB
+LNMIB2.MIB
+WINS.MIB
+
+LDAP ENUM:
+
+HIERACHIAL & LOGICAL
+CONNECTS TO DSA ON PORT 389,SENDS OPERATION REQUEST
+INFOMATION AT TRANSIT IS @ BER
+
+NTP 
+
+PORT 123
+NTP TRACE - TO TRACK THE INFROMATION
+NTPDC  -  QUERIES ABOUT THECURRENT STATE
+offset: difference between local clock and remote clock 
+the host's synchronization distance, which is a measure of the quality of the clock's time.
+
+
+SMTP
+
+VRFY – validate users on the SMTP servers
+EXPN – Delivery addresses of aliases and mailing lists
+RCPT TO – Defines the recipients of the message
+
+EXPN command is to reveal the actual address of users
+VRFY which can confirm the existance of names of valid users.
+
+If you received message code 250,251,252 which means server has accept the request and user account is valid.
+code 550 it means invalid user account
+
+
+DNS
+
+To retireve entrie zone file from primary during the dns zone transfer.
+
+
+VOIP
+
+TCP-UDP =2000,2001,5050,5061
+
+
+USER ENNUMERATION
+
+
+
+
+

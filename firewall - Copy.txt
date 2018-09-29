@@ -1,0 +1,66 @@
+IDS And IPS
+
+IDS
+
+signature
+anomaly
+protocol anomaly
+
+Instruction
+
+file system
+network instrucion
+system ins
+
+
+Types of Intrustion and dectection
+Network
+Hostbased
+
+
+log file monitoring -- phf,swatch
+file inegrity check --
+
+
+Firewall
+Types of Firewall
+app firewall --->both active and passive.
+app proxies ----> filters connection for specific services
+services and protocols
+
+
+honeypot
+low-intercation
+medium-intercation
+high
+production
+research
+
+
+
+ids,firewall soltions
+SNORT
+direction operator
+Ip address
+port numbers
+
+alien vault oosim
+
+
+Evading IDS
+
+Evading Firewall
+Firewalls - don't check for packets with ack bit set
+bypass WAF using XSS attack
+
+
+IDS/Firewall Evasion Tool
+
+HoneyPot
+--presence of honeypot
+--malicious probe request --- SSL over HTTP,SMTP over SSL ,IMAP over SSL
+
+look for no p opcode other than 0x90 to defend against the polorphic shellcode problem
+
+
+

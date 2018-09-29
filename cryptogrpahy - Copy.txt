@@ -1,0 +1,85 @@
+Cyrpto COncepts
+
+confi
+inte
+auth
+nonrepudiation
+
+
+types
+symmetric - private
+assymeetric - public 
+
+
+GAK
+copies given to governemnt
+use key escrow
+
+
+DSA has private and public 
+
+signature generation process
+          verfication process
+
+
+RSA -
+internet encryption and authencation
+
+Diffie-hellman
+
+shared key over an insecure channel
+
+
+hash
+as
+sha1
+
+sha2,256 and sha 512
+RIPEMED,RIPMED-256,
+
+
+HMAC
+
+message authentication code
+hash function sha1-1 or md5
+embedded hash function
+
+Two Stages
+produces two keys -input and output 
+
+Crypto Tools
+md5 tools
+hashmyfiles
+
+Hash Droid
+
+hash a test tab
+hash a file tan
+compare hashes tab
+
+
+cryptogrpahy
+secret space encryptor
+
+
+pki
+
+
+certifiacte management stsyem -generate and disturbatue cert
+digital certifiactes  -- establish creds of ap erson
+validation authoruty -stores cert
+certificate authority - isssues and vertifes
+end user
+regaristration authority  -acts verfies for the CA
+
+
+Email encryption
+
+
+
+
+
+
+
+
+

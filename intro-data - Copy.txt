@@ -1,0 +1,104 @@
+Daisy Chaining -- using the same infomation
+Doxing     -- publishing personal identifiable info
+
+Elements of InfoSec
+COnfi
+Intr
+Avail
+Auth --- qulaity of being geniunes
+Non-repudation -- guatatnee of the message
+
+
+Attack = motive (goal) + method  =vul
+
+
+
+Hacking Phase
+Passive
+Active
+ 
+
+
+recon
+scanning
+gaining access
+maintaining access
+clearing tracks
+
+Scanning
+
+pre-attack
+portscanner
+extract info...
+
+Hacking Phases
+
+Scope
+Limitations
+
+ISMP
+EISA
+
+Types of security policy
+
+promiscuous  -- no restrictions
+permissive policy -- dangerous services /or attacks(all services blocked except particular)
+prudent -- maximum security ,blocks all serivce
+paranoid policy -- it forids everything
+
+Types of physical control
+
+
+types of acces control
+
+dac -users and groups
+mac
+
+
+DLP
+MACHINE LEANING
+SUPERVISED --REGRESSION -- WHEN DATA CLASS are not separated
+UNSUPERVISED -- CLUSTERING --
+
+
+phases of pentest
+securiry testing methodology
+
+
+Risk =threat X vuln X impact
+
+Risk Management phase
+
+Identify
+Assesssment
+Treatment
+Tracking
+Review
+
+Threat Modeling
+
+Identify security obj
+application overview -dataflow
+Decompose app
+identiy threats
+Identify vuln
+
+Types ofphysical control
+preventive control -prevent security violations
+detective control - detect security violations and record
+deterrent control  - send warning message to attacker
+recovery control  - used to revcover from violation
+compensating control --used as an alternative control
+
+
+
+Network security control
+Access control
+identification
+Authencation
+Authorization
+accounting
+crypto
+security policy
+
+

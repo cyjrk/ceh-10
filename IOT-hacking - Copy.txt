@@ -1,0 +1,115 @@
+IOT-ARCH
+
+application layer 
+middleware   ------ device & IT mange,datafiltering,aggregation
+internet  --------- connnection between end point
+access gateway ---- protcol translation and messg 
+edge tech --------- senors devices machines
+
+
+IOT -Communication Model
+
+ASP- Apllication Serice Provider
+
+1. Device to Device ---bulb=wifi=switch zigbee Eg:wearable device
+2. Device to Cloud  ----thermometere=ASP=sensor
+3. Devie to gateway -----    thermometere=ASP= zigbee(Gateway)=sensor
+4. Back-end Data-sharing Model -----bulb=ASP=ASP --->third party
+
+Threats
+
+misconfigured and mis apprenhended 
+
+
+IOT Security Problems:
+
+Application --authentication, defalt passwords
+Network -- improper encryption,no auotmatic updates
+Mobile --insecure api ,auth,storage,,channel encryption
+Cloud
+IOT =app+net+mobile+cloud
+
+OWSAP Top - 10
+
+
+IOT Attack Surface Areas
+
+
+Device memory 
+ecosytem access control
+device phsyical interface
+deivce web interface
+device firmware
+device network services
+administratie interface 
+local storage 
+cloud web interface
+update mechanism
+third party backend-apis
+mobile application
+Vendorbackend apis
+ecosystem communication
+network traffics
+
+
+
+IOT threats
+
+HVAC ----heating ventilation and air conditoing ---- ICS SYSTEM
+rolling code --- jams traffic and sniff the reciever details
+blureborn --attackers connect nearby device and exploit using the bluetooth protocol
+jamming -- malicious  traffic
+sybil   ---  use of multiple forger identities congestion and affecting the communication between node s and networks
+
+side channel ---- extracting information about encryption keys by observing the keys 
+
+ransomware   -- phase1
+                phase2
+                phase3
+
+
+Case Study
+DYN ATTACK- miraiis 
+step 1: infect the drive
+ port 22,23,5747
+step 2 :protect itself
+step 3 :launch attack
+list of default user-agent
+
+
+
+IOT hacking methodolody
+
+1.information gathering
+2.vulnerability scanning
+3.launch attacks
+4.gain access
+5.maintain access
+
+
+
+IOT HACKING TOOLS
+
+info gathering
+
+censys
+zwave
+
+vuln scan
+bestorm
+
+firmalyzer
+
+
+
+IOT Framework consideration
+
+1.EDGE
+2.GATEWAY
+3.CLOUD PLATFORM
+4.MOBILE
+
+
+tool
+seacat.io
+digicert iot 

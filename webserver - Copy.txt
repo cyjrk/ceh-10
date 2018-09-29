@@ -1,0 +1,124 @@
+Document root - stores critical files /admin/web
+Server root   - store's server confg   -conf,-logs,-cgi-bin
+Virtual document - provides storage on different machine
+Virtual hosting - host mulitpl domains
+name-based
+ip-based
+port-based
+Web proxy  - webclient and web server
+
+
+iis webserver
+HTTP.sys
+WWWPS,WAS
+
+
+WEBSEVER ATTACKS
+
+
+
+DDOS
+DNS SERVER HIJACKING
+DNS AMPLICATION
+RECTORY TRNVERSA
+MIM
+WEB DEFACEMENT
+
+WEB SERVER MISCONFIG
+php.ini
+httpd.conf
+
+PHISING
+HTTP-RESPONSE SPLITTING
+WEB CACHE POISONING
+SSH BRUTE FORCE
+WEB SERVER PASS CRACKING
+
+WEB SEVER ATTACK METHODOLOGY
+info gathering
+web server footprint
+web mirroring
+vuln scannning
+session hijacking
+web server pass
+
+session hijacking
+webserver password
+application proxy ---forwarding and reverse http proxy functions  get and connect
+
+CIRT.nrt
+
+metasploit exploit module
+
+active exploit
+verify exploit options
+selecting a target
+selecting a payload
+launching the explout
+
+
+payload module ---- communication model
+auxiliary module --- to perform arbitary one-off actions
+
+nops module --- no operation used for blocking buffer out buffers
+
+
+
+Countermeasures
+disba le webdav
+protocols
+patches and updates
+accounts
+files and directories
+
+web server hacking attempt
+website change detection system
+website CDS
+
+
+Defend
+1.Ports --- 80-http443
+2.Server Certificates --- certificate public key
+3.Machine.Config --- httpforbidden handler and unused,tracing is disabled
+4.Code Access Security --- secure coding , code access security policy,configure IIS
+5.HTTP headers mitigate
+6.w3c formatted logs
+
+
+Patch managrement
+hotfix- a package to address a critical defect 
+
+
+Detect  - tools
+Assess   - assess the issue
+Acquire  
+test    - install the patch
+deploy
+maintain
+
+
+Installation of Patch
+
+Identify the Source
+Manual
+Autoamatic
+
+Implementation and verfication of a sescurity patch
+
+
+patch management tools
+
+
+Webserver security tools
+N-stalker
+Syhunt
+
+scanners
+
+
+
+
+
+
+
+

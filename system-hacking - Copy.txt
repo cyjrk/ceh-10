@@ -1,0 +1,15 @@
+system hacking concepts
+footpriniting
+scanning
+enummeration
+vuln analysis
+
+
+
+cracking passwords
+escalating privileges
+  executing app
+  hiding files
+covering tracks
+
+

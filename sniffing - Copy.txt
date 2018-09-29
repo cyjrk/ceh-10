@@ -1,0 +1,22 @@
+Sniffing
+
+SPAN Port
+Acticve and passive
+ARP poisoning
+Mac flooding - once cam is full it floods other ports(switch behaves fail-open mode acts as hub)
+Switch port stealing
+
+DHCP attacks
+
+DNS poisoning
+
+
+
+Spoofing attack
+
+
+HTTP,SMTP,FTP,Telnet,HTTP,SNMP
+
+SPAN port in the Cisco
+
+

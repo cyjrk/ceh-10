@@ -1,0 +1,50 @@
+types of scanning
+icmp scanning
+tcp scanning
+udp scanning
+
+
+
+SSDP and List scanning
+
+
+scanning beyond IDS
+
+packet fragementation
+source routing
+ip address
+
+
+Detection techniques
+IP ID NO
+TCP flow control method
+
+
+Proxy chaining
+
+
+
+Banner grabbing
+
+Active -crafted packets sent to the remote OS and passive - sniffing the network and get detail from the error message
+
+Identity target system using the OS
+
+
+Knowledge
+
+Nmap uses the 9 tests to find the os
+
+to the find the OS,there are four things u have to consider
+TTL
+windows size
+is 0x7d78
+cisco and microsoft constlay change
+
+packetwatch.com
+
+Countermeasures
+.asp to .htm -application mappings
+mod_headers --httpd.conf
+
+

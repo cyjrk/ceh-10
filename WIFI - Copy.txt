@@ -1,0 +1,6 @@
+WEP KEY MEANS =PASSWORD
+
+Client
+128-bit TEMP Key + Client  Mac Address + TSC = keystream
+
+data + mic 

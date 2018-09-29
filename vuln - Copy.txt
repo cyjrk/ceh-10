@@ -1,0 +1,125 @@
+vulnerability classification
+
+1.misconfiguration
+2.default installations
+3 buffer overflows
+4 unpatched servers
+5 design flaws
+6 operating system flaws
+7 application flaws
+  open services
+  default passwords
+active scan
+passive scan
+
+Types of vuln assessment
+
+active
+passive
+external assessment 
+internal assessment
+host based assessment
+network assessment
+application assessment
+wireless network assessment
+
+
+
+vul management lifecycle
+
+creating balseing
+vulnerablilitu assessment 
+risk assessment
+remediation---->APPLY PATCHES/FIX,RCA
+verfication---->DYNAMIC ANALYSIS .ATTACK SURFACE
+monitor------>IMPLEMENT POLICY AND PROCEDURES,IDS IPS LOGS
+
+VULNERABILITY ASSESSMENT SOLUTIONS
+product based solutions---->installed in internal network (private)
+service based solutions----->offered by third party ,auditing or consulting firms,hosted inside and outside the network.
+
+tree based assessment --->different tools for differnet servics eg:windows or linux
+
+inference based assessment --->
+scanning starts building an inverntoy protocol
+which ports are attached to the services
+selects vulnerbailituy and start to execute the test cases
+
+
+working of vulnerability scanning solutions ------>
+1.locate nodes
+2.perform service discovery
+3.test services for known vulnerabilites
+
+
+
+types of vulnerability assessmnet toolss
+host based -->find os services
+depth assessment --->find unknown vulnerbailities  eg:fuzzers
+application layer--> webservers or databses
+scope assessment -->security in IT sysytem vulnerability in app and os
+active /passive tools --->
+action
+
+consume resources on the network
+
+passive
+
+observe system data
+perform data processing
+
+location/data
+
+network
+agent
+proxy
+cluster
+
+vulnerability scoring system
+
+base - inherent qualities
+temporal -features changes during the lifetime
+enviromental -features based on the particular enviorment
+
+
+Vulnerability Assesstment Tools
+
+Qualys VM
+Tools for mobile 
+retina
+security metics
+
+Vulnerability Assesstment Reports
+
+scan info
+traget info
+results
+
+Target
+node
+os
+date
+services
+classification
+assessment
+
+
+Report into two types
+
+security vulnerability report
+
+new found vuln
+open port and detected services
+suggestion and remedation
+links to patches
+
+security vulnerability summary
+current security flaw
+categories of vulnerabilites
+severity of vulnerabilites
+resolved
+
+
+
+
+
