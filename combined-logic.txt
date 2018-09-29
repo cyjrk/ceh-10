@@ -1,0 +1,90 @@
+=biomertic scan focuse on user's eye
+A:IRis
+=ip spoofing can be  detected change in TTL vaule
+=14-character can be breaked slightly 
+---------------------------------------------------
+=PGP
+no management server services,
+no server side scripting 
+it provides authencation
+=DES
+symmetic
+=key escrow
+provides recovery for private key
+third party access
+=Diffie man
+ --invented public key
+ --it does not provide encryption,compression,restorability
+PKI 
+only stored
+ --private certificate
+ --digital certificate 
+private key for 3rd party
+VA
+--stores digital certicates
+RA
+--verfies digital singature
+------------------------------------------------------- 
+=SOAP
+xml attack issues
+ -replay attack mitigated by signed timestamps and nonce
+---------------------------------------------------------------
+=Three factor
+something you know(password)
+something you have(smart card)
+something you are (retina scan)
+=arp is active wire tapping
+48 bit -->32 bit address
+=incident reponse is part of incident handling
+incident handling apart of incident management
+incident management
+  --vulnerability analysis
+  --artifact handling
+  --announcments
+  --alerts 
+  --incident handling
+incident handling
+  --triage
+  --reporting
+  --detection 
+  --analysis
+  --incident reponse
+=residual risk
+   --exists even after secutrity controls applied
+=risk assessment
+   --threat identifaction
+   --vulerability indentifaction
+   --control analysis
+=risk options
+  --accept
+  --mitigate
+  --avoid
+  --transfer
+=Security policy
+  -- enforce physical security policy
+  --secirty awaresness training
+  -- security up to date
+-if event incident occures consult security policy first
+=CVSS
+ --protection profiles -define security standard for product
+ -- evaualtion of assirance levels -how prodcut needs to be tested
+(security assurance created by TSEC)
+=EAP
+ can transfer certificate
+ can be used to transfer kerbros token
+
+=PPTP
+  works @ datalink layer
+  L2tp works @datalink layer does not encrypt
+without ipsec
+-----------------------------------------------------------------
+=Scanning
+Inverse Scan(Fin/push/null/urg)
+no reponse - port open
+rst        - port close
+xmas-only unix platform
+ack- no reponse  - stat
+     rst         -no statefull
+     rst    based on window size -port open
+-----------------------------------------------------------blackjacking 
+ --use mobile app to access internal network
